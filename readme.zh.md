@@ -382,6 +382,8 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期。
 
 - [Cerbos](https://github.com/cerbos/cerbos) - 用于编写上下文感知访问控制策略的授权端点。
 
+- [FerrisKey](https://github.com/ferriskey/ferriskey) - 用 Rust 编写的自托管、开源、RBAC 系统。
+
 ### ABAC 框架
 
 [Attribute-Based Access Control](https://en.wikipedia.org/wiki/Attribute-based_access_control) 是RBAC的演变，其中角色被属性取代，从而实现了更复杂的基于策略的访问控制。
