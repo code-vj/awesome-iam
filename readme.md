@@ -491,6 +491,8 @@ Security Assertion Markup Language (SAML) 2.0 is a means to exchange authorizati
 
 Typical SAML identity provider is an institution or a big corporation's internal SSO, while the typical OIDC/OAuth provider is a tech company that runs a data silo.
 
+- [What is SAML and How SAML Authentication Works](https://ssojet.com/blog/what-is-saml-and-how-saml-authentication-works#what-is-saml) - Think of OAuth as a system for authorization — making sure Alice has access to the correct building — while SAML is about authentication, confirming Alice’s identity so she can pass through security at the entrance.
+  
 - [SAML vs. OAuth](https://web.archive.org/web/20230327071347/https://www.cloudflare.com/learning/access-management/what-is-oauth/) - “OAuth is a protocol for authorization: it ensures Bob goes to the right parking lot. In contrast, SAML is a protocol for authentication, or allowing Bob to get past the guardhouse.”
 
 - [The Difference Between SAML 2.0 and OAuth 2.0](https://www.ubisecure.com/uncategorized/difference-between-saml-and-oauth/) - “Even though SAML was actually designed to be widely applicable, its contemporary usage is typically shifted towards enterprise SSO scenarios. On the other hand, OAuth was designed for use with applications on the Internet, especially for delegated authorisation.”
