@@ -490,6 +490,8 @@ IAM 的基础：用户、组、角色和权限的定义和生命周期。
 
 典型的 SAML 身份提供商是机构或大公司的内部 SSO，而典型的 OIDC/OAuth 提供商是运行数据孤岛的科技公司。
 
+- [What is SAML and How SAML Authentication Works](https://ssojet.com/blog/what-is-saml-and-how-saml-authentication-works#what-is-saml) - 可以把 OAuth 想象成授权系统——确保 Alice 有权进入正确的建筑；而 SAML 则是身份验证，用于确认 Alice 的身份，让她可以通过入口处的安全检查。
+
 - [SAML vs. OAuth](https://web.archive.org/web/20230327071347/https://www.cloudflare.com/learning/access-management/what-is-oauth/) - “OAuth 是一种授权协议：它确保 Bob 前往正确的停车场。 相比之下，SAML 是一种用于身份验证的协议，或者允许 Bob 通过警卫室。”
 
 - [SAML 2.0 和 OAuth 2.0 的区别](https://www.ubisecure.com/uncategorized/difference-between-saml-and-oauth/) - “尽管 SAML 实际上被设计为具有广泛的适用性，但其当代用途通常转向企业 SSO 场景。 另一方面，OAuth 被设计用于 Internet 上的应用程序，尤其是委托授权。”
